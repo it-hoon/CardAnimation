@@ -2,8 +2,8 @@ language: android
 jdk: oraclejdk9
 android:
   components:
-  - platform-tools-26
-  - tools-26
+#  - platform-tools
+#  - tools-26
   - build-tools-26.1.0
   - android-26
   - extra-android-m2repository
